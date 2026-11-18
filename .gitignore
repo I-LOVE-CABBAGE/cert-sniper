@@ -1,0 +1,40 @@
+# ===== 비밀값 (예시 파일 .env.example 은 커밋) =====
+.env
+.env.local
+.env.*.local
+application-local.yml
+application-secret.yml
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== IDE =====
+.idea/
+*.iml
+.vscode/
+*.swp
+
+# ===== Java / Gradle (backend) =====
+backend/.gradle/
+backend/build/
+backend/out/
+backend/bin/
+*.class
+*.log
+
+# ===== Node / React (frontend) =====
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+frontend/.vite/
+npm-debug.log*
+yarn-error.log*
+
+# ===== Python (etl) =====
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+etl/tmp/

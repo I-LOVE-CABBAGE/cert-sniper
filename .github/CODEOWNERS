@@ -1,0 +1,31 @@
+# 파트별 리뷰어: 해당 경로를 고친 PR에 자동으로 리뷰어가 지정됩니다.
+# 형식: 경로  @GitHub아이디
+# 담당자가 정해지면 아래 주석(#)을 지우고 아이디를 채워 주세요.
+
+# ----- 추천·자격증 파트 -----
+/etl/                                                   @euna0428
+/backend/src/main/java/com/certsniper/option/           @euna0428
+/backend/src/main/java/com/certsniper/university/       @euna0428
+/backend/src/main/java/com/certsniper/job/              @euna0428
+/backend/src/main/java/com/certsniper/recommendation/   @euna0428
+/backend/src/main/java/com/certsniper/qualification/    @euna0428
+/backend/src/main/java/com/certsniper/examschedule/     @euna0428
+/frontend/src/pages/Recommend/                          @euna0428
+/frontend/src/pages/QualificationDetail/                @euna0428
+/frontend/src/components/qualification/                 @euna0428
+
+# ----- 다른 파트: 담당자 아이디를 채우고 # 을 지우세요 -----
+# /backend/src/main/java/com/certsniper/global/      @
+# /backend/src/main/java/com/certsniper/auth/        @
+# /backend/src/main/java/com/certsniper/user/        @
+# /backend/src/main/java/com/certsniper/favorite/    @
+# /backend/src/main/java/com/certsniper/targetexam/  @
+# /backend/src/main/java/com/certsniper/planner/     @
+# /backend/src/main/java/com/certsniper/memo/        @
+# /backend/src/main/java/com/certsniper/aiplanner/   @
+# /backend/src/main/java/com/certsniper/passstory/   @
+# /backend/src/main/java/com/certsniper/report/      @
+# /backend/src/main/java/com/certsniper/rank/        @
+# /backend/src/main/java/com/certsniper/support/     @
+# /backend/src/main/java/com/certsniper/admin/       @
+# /backend/src/main/resources/db/migration/          @
